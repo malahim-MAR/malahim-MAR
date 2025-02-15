@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coming soon
 - 📫 How to reach me via number or gmail 
  03482419504
-armalahim01@gmail.com
+sardarmalahim@gmail.com
 
 <!---
 malahim-MAR/malahim-MAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
