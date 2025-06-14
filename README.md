@@ -22,3 +22,7 @@ Crafting Passion Projects & UI Experiments
 "I believe in clean code, meaningful design, and building with purpose — not just aesthetics."
 
 Feel free to check out my pinned projects or connect with me for collaboration.
+
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=malahim-MAR)
