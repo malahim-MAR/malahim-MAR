@@ -26,4 +26,5 @@ Portfolio: sardarmalahim.com
 Instagram: @sardar.malahim
 LinkedIn: linkedin.com/in/sardarmalahim
 WhatsApp: Contact Me
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=malahim-MAR)
