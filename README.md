@@ -1,28 +1,39 @@
-👋 Hi, I'm Sardar Malahim — a passionate Front-End & Shopify Developer
-I specialize in building modern, responsive websites and e-commerce stores using technologies like React, Next.js, Firebase, Shopify, and Tailwind CSS. With a solid foundation in JavaScript, HTML, and CSS, I focus on creating clean UIs, optimized performance, and smooth user experiences.
+Hey, I'm Sardar Malahim
+Front-End & Shopify Developer | React • Next.js • Firebase • Tailwind CSS | MERN Stack Beginner
 
-🚀 What I do:
-✨ Front-End Development (React, Next.js, Tailwind)
+I’m passionate about crafting modern, responsive websites and e-commerce experiences that combine performance, usability, and clean design. With a strong foundation in JavaScript, HTML, and CSS, I focus on building purposeful digital interfaces — not just visually appealing ones.
 
-🛒 Shopify & WordPress Custom Development
+What I Do
 
-📈 Conversion-Focused E-Commerce Design
+Front-End Development: React, Next.js, Tailwind CSS
 
-🔒 Firebase Auth + Firestore Integration
+Shopify & WordPress Custom Development
 
-📱 Responsive Design & Mobile Optimization
+Conversion-Focused E-Commerce Design
 
-📚 Currently exploring:
-Advanced Firebase (Realtime DB, Functions)
+Firebase Authentication & Firestore Integration
 
-Building Full-Stack MERN Applications
+Responsive, Mobile-Optimized Interfaces
 
-Crafting Passion Projects & UI Experiments
+Currently Exploring
 
-"I believe in clean code, meaningful design, and building with purpose — not just aesthetics."
+Advanced Firebase: Realtime Database and Cloud Functions
 
-Feel free to check out my pinned projects or connect with me for collaboration.
+MERN Stack Development (Beginner Level)
 
+Passion Projects, UI Experiments, and Micro-Interactions
 
+My Philosophy
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=malahim-MAR)
+“I believe in clean code, meaningful design, and building with purpose — not just aesthetics.”
+
+Connect With Me
+
+Portfolio: sardarmalahim.com
+ (replace if needed)
+
+Instagram: @sardar.malahim
+
+LinkedIn: linkedin.com/in/sardarmalahim
+
+WhatsApp: Contact Me
