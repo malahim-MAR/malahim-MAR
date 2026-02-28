@@ -1,66 +1,21 @@
-Malahim M.A.R
+# 💫 About Me:
+🔭 Building scalable web & mobile products with MERN and React Native<br>🛒 Commerce-focused developer (Shopify, custom solutions)<br>🌱 Expanding into Python for backend & automation<br>💬 Ask me about real-world product architecture & performance optimization<br>⚡ Started coding at 14 — still obsessed with building
 
-Product-Focused MERN & React Native Developer
 
-I build scalable web and mobile products with real business logic — not demo apps.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malahim.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/malahim-bin-haroon-2a4436373) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malahimbinharoon@gmail.com) 
 
-Commerce-driven systems (Shopify + custom builds)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=malahim-MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=malahim-MAR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=malahim-MAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Real-time apps with performance optimization
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=malahim-MAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Admin dashboards & internal tools replacing manual workflows
+---
+[![](https://visitcount.itsvg.in/api?id=malahim-MAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Currently expanding into Python for backend automation
-
-🚀 Selected Work
-Dropper – Delivery Platform
-
-React Native app with live tracking, panic system, scheduled requests, vehicle-based logic, and real-time chat.
-Built with performance optimization using TanStack and structured architecture.
-
-Dropper Admin Panel
-
-Next.js-based internal system handling:
-
-Driver verification
-
-Emergency request management
-
-Ratings & reporting
-
-Operational dashboards
-
-Project Management System
-
-Custom React system replacing Excel workflows for a Pakistani agency:
-
-Role-based dashboards
-
-Dynamic reporting (PDF/Excel)
-
-Chat system
-
-Integrated salary performance module
-
-🧠 Core Stack
-
-Frontend
-React • Next.js • React Native • TypeScript • Tailwind
-
-Backend & Data
-Node.js • Express • Supabase • Firebase • MySQL
-
-Commerce & CMS
-Shopify (Custom Liquid) • WordPress
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malahim-MAR&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=malahim-MAR&theme=tokyonight&hide_border=true" /> </p>
-👀 Profile Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malahim-MAR&label=Profile%20Views&color=111111&style=for-the-badge" /> </p>
-🌍 Connect
-
-Instagram: https://instagram.com/malahim.dev
-
-LinkedIn: https://linkedin.com/in/malahim-bin-haroon-2a4436373
-
-Email: malahimbinharoon@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
