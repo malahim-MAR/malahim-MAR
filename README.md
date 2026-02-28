@@ -17,5 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=malahim-MAR&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=malahim-MAR)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
