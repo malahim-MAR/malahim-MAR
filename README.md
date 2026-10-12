@@ -1,8 +1,8 @@
 ## Malahim | Full Stack Developer
+=
+Full-stack web and app developer from Karachi, Pakistan. About 3+ years of professional experience building scalable web and mobile products with MERN, React Native, Shopify and WordPress. Started coding at 14. Currently Full Stack Shopify & WordPress Developer at Delve12.
 
-Full-stack web and app developer from Karachi, Pakistan. About 2.5 years of professional experience building scalable web and mobile products with MERN, React Native, Shopify and WordPress. Started coding at 14. Currently Full Stack Shopify & WordPress Developer at Delve12 / Zero Vertical Labs.
-
-I build commerce-focused products and custom full-stack solutions, with a focus on real-world architecture and performance optimization.
+I build commerce-focused products and custom full-stack solutions, with a focus on real world architecture and performance optimization.
 
 ---
 
@@ -10,10 +10,10 @@ I build commerce-focused products and custom full-stack solutions, with a focus 
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full Stack Shopify & WordPress Developer | Delve12 / Zero Vertical Labs | Apr 2026 - Present |
-| Full Stack Web & App Developer (Intern) | Zero Vertical Labs | Oct 2025 - Mar 2026 |
-| Shopify Developer | AAA Digital Media | May 2024 - Sep 2025 |
-| Frontend & WordPress Developer (Intern) | n/a | 10 months |
+| Full Stack Shopify & WordPress Developer | Delve12 | Jan 2026 - Present |
+| Full Stack Web & App Developer (Intern) | Zero Vertical Labs | July 2025 - Dec 2025 |
+| Shopify & Wordpress Developer | AAA Digital Media | Jan 2024 - June 2025 |
+| Frontend & WordPress Developer (Intern) | ISoftMart Solutions | June 2023 - Dec 2023 |
 
 ---
 
@@ -22,8 +22,6 @@ I build commerce-focused products and custom full-stack solutions, with a focus 
 - Strengthening my backend skills with Node.js, Express, MongoDB, PostgreSQL and Prisma
 - Learning Python for backend work and automation
 - A browser gaming platform in Next.js, TypeScript and Supabase
-- Raahat Store, my own Shopify store
-
 ---
 
 ## Featured Projects
@@ -32,8 +30,8 @@ I build commerce-focused products and custom full-stack solutions, with a focus 
 |---------|-------------|-------|
 | [ThinkBoard](https://github.com/USERNAME/REPO) | Note and todo app, MERN monorepo | React, Vite, Express, MongoDB |
 | [Gaming Platform](https://github.com/USERNAME/REPO) | Browser gaming platform | Next.js, TypeScript, Supabase |
-| [Dropper](https://github.com/USERNAME/REPO) | Delivery app | React Native |
-| [A&M Tech](https://github.com/USERNAME/REPO) | Gaming peripherals and PC parts dropshipping platform | Shopify |
+| [Dropper](https://sardarmalahim.vercel.app/react-native/dropper-mobile) | Delivery app | React Native |
+| [A&M Tech](https://amtechstore.vercel.app/) | Gaming peripherals and PC parts dropshipping platform | Shopify |
 | [Portfolio](https://sardarmalahim.vercel.app) | Personal portfolio website | Next.js, Tailwind CSS |
 
 ---
@@ -56,7 +54,7 @@ Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase, Firebase
 
 ## Ask Me About
 
-- Real-world product architecture
+- Real world product architecture
 - Performance optimization
 - Shopify and custom commerce solutions
 
