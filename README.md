@@ -1,5 +1,4 @@
 ## Malahim | Full Stack Developer
-=
 Full-stack web and app developer from Karachi, Pakistan. About 3+ years of professional experience building scalable web and mobile products with MERN, React Native, Shopify and WordPress. Started coding at 14. Currently Full Stack Shopify & WordPress Developer at Delve12.
 
 I build commerce-focused products and custom full-stack solutions, with a focus on real world architecture and performance optimization.
