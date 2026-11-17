@@ -1,7 +1,7 @@
 ## Malahim | Full Stack Developer
-Full-stack web and app developer from Karachi, Pakistan. About 3+ years of professional experience building scalable web and mobile products with MERN, React Native, Shopify and WordPress. Started coding at 14. Currently Full Stack Shopify & WordPress Developer at Delve12.
+Full stack web and app developer from Karachi, Pakistan. About 3+ years of professional experience building scalable web and mobile products with MERN, React Native, Shopify and WordPress. Started coding at 14. Currently Full Stack Shopify & WordPress Developer at Delve12.
 
-I build commerce-focused products and custom full-stack solutions, with a focus on real world architecture and performance optimization.
+I build commerce focused products and custom full stack solutions, with a focus on real world architecture and performance optimization.
 
 ---
 
@@ -27,8 +27,8 @@ I build commerce-focused products and custom full-stack solutions, with a focus 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [ThinkBoard](https://github.com/USERNAME/REPO) | Note and todo app, MERN monorepo | React, Vite, Express, MongoDB |
-| [Gaming Platform](https://github.com/USERNAME/REPO) | Browser gaming platform | Next.js, TypeScript, Supabase |
+| [Aryan Tech](https://aryantech.co) | Note and todo app, MERN monorepo | React, Vite, Express, MongoDB |
+| [Upsell App](https://github.com/malahim-mar) | Browser gaming platform | Next.js, TypeScript, Supabase |
 | [Dropper](https://sardarmalahim.vercel.app/react-native/dropper-mobile) | Delivery app | React Native |
 | [A&M Tech](https://amtechstore.vercel.app/) | Gaming peripherals and PC parts dropshipping platform | Shopify |
 | [Portfolio](https://sardarmalahim.vercel.app) | Personal portfolio website | Next.js, Tailwind CSS |
@@ -60,11 +60,6 @@ Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase, Firebase
 ---
 
 ## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=malahim-mar&show_icons=false&hide_border=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahim-mar&layout=compact&hide_border=true&theme=dark" height="150" />
-</p>
 
 ![Streak](https://streak-stats.demolab.com?user=malahim-mar&theme=dark_border=true&theme=dark)
 
