@@ -62,8 +62,8 @@ Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase, Firebase
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=false&hide_border=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malahim-mar&show_icons=false&hide_border=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahim-mar&layout=compact&hide_border=true&theme=dark" height="150" />
 </p>
 
 ![Streak](https://streak-stats.demolab.com?user=malahim-mar&theme=dark_border=true&theme=dark)
