@@ -66,7 +66,7 @@ Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase, Firebase
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=dark" height="150" />
 </p>
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=malahim-mar&theme=dark_border=true&theme=dark)
 
 
 ## 🌐 Socials:
