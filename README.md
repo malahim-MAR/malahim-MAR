@@ -27,10 +27,10 @@ I build commerce focused products and custom full stack solutions, with a focus 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Aryan Tech](https://aryantech.co) | Note and todo app, MERN monorepo | React, Vite, Express, MongoDB |
-| [Upsell App](https://github.com/malahim-mar) | Browser gaming platform | Next.js, TypeScript, Supabase |
+| [Aryan Tech](https://aryantech.co) | Note and todo app, MERN monorepo | Shopify, Liquid |
+| [Upsell App](https://github.com/malahim-mar) | Shopify Upsell App | React, Shopify API |
 | [Dropper](https://sardarmalahim.vercel.app/react-native/dropper-mobile) | Delivery app | React Native |
-| [A&M Tech](https://amtechstore.vercel.app/) | Gaming peripherals and PC parts dropshipping platform | Shopify |
+| [A&M Tech](https://amtechstore.vercel.app/) | Gaming peripherals and PC parts dropshipping platform | Next.js, Tailwind CSS |
 | [Portfolio](https://sardarmalahim.vercel.app) | Personal portfolio website | Next.js, Tailwind CSS |
 
 ---
